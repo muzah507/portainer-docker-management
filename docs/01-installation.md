@@ -29,3 +29,9 @@ During installation:
 
 ```bash
 sudo apt update && sudo apt upgrade -y
+```
+# Verify Connectivity
+```bash
+ping google.com
+ip a
+```
